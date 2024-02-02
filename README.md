@@ -5,6 +5,8 @@ For Content Understanding and Generation<br/>
 </h3>
 <br/>
 
+[![Replicate](https://replicate.com/zsxkib/uform-gen/badge)](https://replicate.com/zsxkib/uform-gen)
+
 <p align="center">
 <a href="https://discord.gg/jsMURnSFM2"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/discord.svg" alt="Discord"></a>
 &nbsp; &nbsp; &nbsp; 
